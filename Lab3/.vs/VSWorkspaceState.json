@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Commands",
+    "\\src\\Data",
+    "\\src\\Models",
+    "\\src\\Models\\Commands"
+  ],
+  "SelectedNode": "\\src\\Commands\\ICommand.cs",
+  "PreviewInSolutionExplorer": false
+}
